@@ -1,0 +1,29 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET build outputs
+**/bin/
+**/obj/
+
+# Logs
+*.log
+
+# Local configuration and secrets
+appsettings.Development.json
+secrets.json
+
+# IDE and OS files
+.idea/
+.DS_Store
+Thumbs.db
+
+
+# Local secrets and environment-specific settings
+appsettings.*.json
+!appsettings.json
+
+# User-specific Visual Studio settings
+*.csproj.user

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../GarageFlow.Application/GarageFlow.Application.csproj" />
+  <Project Path="../GarageFlow.Domain/GarageFlow.Domain.csproj" />
+  <Project Path="../GarageFlow.Infrastructure/GarageFlow.Infrastructure.csproj" />
+  <Project Path="../GarageFlow.Tests/GarageFlow.Tests.csproj" />
+  <Project Path="GarageFlow.API.csproj" />
+</Solution>

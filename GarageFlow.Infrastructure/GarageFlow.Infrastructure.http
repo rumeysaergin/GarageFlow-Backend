@@ -1,0 +1,6 @@
+@GarageFlow.Infrastructure_HostAddress = http://localhost:5211
+
+GET {{GarageFlow.Infrastructure_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
